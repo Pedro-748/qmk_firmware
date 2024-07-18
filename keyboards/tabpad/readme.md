@@ -4,8 +4,8 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Payton](https://github.com/Pedro-748)
-* Hardware Supported: *The PCBs, controllers supported*
+* Keyboard Maintainer: [Pedro](https://github.com/Pedro-748)
+* Hardware Supported: atmega32u4
 * Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
